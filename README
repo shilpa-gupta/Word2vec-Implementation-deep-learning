@@ -1,0 +1,24 @@
+Cross Entropy Mode :
+Hyper Parameters :
+    Batch Size : 100
+    Embed Size : 128
+    Skip Window : 1
+    No of Skips : 2
+    Iterations : 100001
+    Learning Rate : 1
+
+Noise Contrastive Estimation Model :
+Hyper Parameters :
+    Batch Size : 128
+    Embed Size : 128
+    Skip Window : 1
+    No of Skips : 2
+    Iterations : 100001
+    Learning Rate : 1
+    No of samples : 64
+
+Models link
+https://drive.google.com/a/cs.stonybrook.edu/file/d/0B83lgMySg6pvVDJ1Nm5LamFUTFU/view?usp=sharing
+https://drive.google.com/a/cs.stonybrook.edu/file/d/0B83lgMySg6pvd3J1OThORlZ4YlE/view?usp=sharing
+
+
